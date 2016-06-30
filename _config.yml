@@ -1,0 +1,28 @@
+name: Trump Course
+favicon: null
+layout_spectrum: 0.9779787808656693
+typography_spectrum: 0.8790726866573095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6998940783087164
+  lightness: 0.2610046030022204
+  saturation: 0.05117073468863964
+  rhythmicContrast: 0.5356561995577067
+purpose: []
