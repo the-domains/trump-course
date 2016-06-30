@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ' For the past few months, I have been widely quoted in the media about the incredible learning opportunity created by the "deviant" nature of the Trump campaign. '
-datePublished: '2016-06-30T02:58:00.628Z'
-dateModified: '2016-06-30T02:56:54.047Z'
+datePublished: '2016-06-30T03:04:03.956Z'
+dateModified: '2016-06-30T03:03:34.227Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-30-trump-course.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-30-trump-course.md
+starred: true
 url: trump-course/index.html
 _type: Article
 
@@ -31,7 +31,7 @@ I realize that the timing is late. But, your students may have a real interest i
 
 I hope you will consider both how such a course on "Trump Studies" could be beneficial and that I should be the one to teach it. 
 
-Attachments including my c.v and the syllabus can be found at 
+Attachments including my c.v and the syllabus can be found at http://emergence.org/TrumpCourse.pdf
 
 Examples of my teaching and speaking can be found at http://bit.ly/293FJDd 
 
