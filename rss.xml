@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Trump Course]]></title>
         <description><![CDATA[Trump Course]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trump-course/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 02:58:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 30 Jun 2016 03:04:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trump-course/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Trump Course]]></title>
             <description><![CDATA[<p> For the past few months, I have been widely quoted in the media about the incredible learning opportunity created by the "deviant" nature of the Trump campaign. </p>]]></description>
-            <link>undefinedtrump-course/index.html</link>
+            <link>https://thegrid.ai/trump-course/trump-course/index.html</link>
             <guid isPermaLink="false">7030a986-f10e-44f7-b871-ff185b733b81</guid>
-            <pubDate>Thu, 30 Jun 2016 02:58:00 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2016 03:04:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
